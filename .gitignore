@@ -1,0 +1,6 @@
+__pycache__
+/ref_impl/*
+/papers/*
+/nico/*
+/checkpoints/*
+submit*
